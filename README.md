@@ -1,2 +1,1 @@
-# dwifebrian
-Hai
+https://github.com/mhankbarbar/termux-wabot#readme
